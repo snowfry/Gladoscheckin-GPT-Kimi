@@ -1,7 +1,7 @@
 
 # Glados自动签到,微信/邮箱/浏览器插件 推送结果
 
-## 源自--->本站项目-->[原贴链接](https://github.com/Devilstore/Gladoscheckin)
+## 重要声明：本帖源自--->本站项目[原贴链接](https://github.com/Devilstore/Gladoscheckin)，我仅就推送相关内容作了部分更改。
 
 ## 注册一个GLaDOS的账号([注册地址](https://glados.space/landing/0A58E-NV28S-6U3QV-33VMG))
 

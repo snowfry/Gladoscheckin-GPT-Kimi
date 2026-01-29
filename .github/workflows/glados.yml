@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "0 2 * * *"   # 北京时间 10:00
   workflow_dispatch:
-
+ 
 jobs:
   checkin:
     runs-on: ubuntu-latest
